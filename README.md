@@ -1,7 +1,7 @@
 # 🚦 Traffic Management System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://traffic-challan-manager.magicloops.app)
+[![Live Demo](https://685961d0bf93d939e0d90601--peppy-melba-04f05a.netlify.app/)
 
 A web-based **Traffic Challan Management System** that helps users and traffic officers to manage and track traffic violations efficiently. Users can view their challans, pay fines, and officers can generate reports — all from one centralized platform.
 
